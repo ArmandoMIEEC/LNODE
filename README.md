@@ -1,1 +1,1 @@
-# *L*oRa *M*onitoring and *C*ontrol **S**tation (*LMCS*)
+# LoRa Monitoring and Control Station (LMCS)
